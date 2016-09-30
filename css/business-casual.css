@@ -48,10 +48,9 @@ hr {
 }
 
 .navbar-nav {
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     font-weight: 400;
     letter-spacing: 3px;
-    color: red;
 }
 
 .img-full {
