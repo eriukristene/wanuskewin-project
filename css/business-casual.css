@@ -58,6 +58,8 @@ hr {
     font-weight: 400;
     letter-spacing: 1px;
     list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 .menubar a {
