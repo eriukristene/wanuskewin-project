@@ -4324,10 +4324,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin: 7.5px -15px;
 }
 .navbar-nav > li > a {
-  /*padding-top: 10px;
-  padding-bottom: 10px;*/
+  padding-top: 10px;
+  padding-bottom: 10px;
   line-height: 10px;
-  color:red;
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
@@ -4509,7 +4508,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #777;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #777;
+  color: red;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
