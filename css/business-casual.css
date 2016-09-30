@@ -177,7 +177,7 @@ footer p {
     .navbar-nav {
         display: table;
         float: none;
-        margin: 0 auto;
+        margin: 0 0;
         table-layout: fixed;
         font-size: 1.25em;
     }
