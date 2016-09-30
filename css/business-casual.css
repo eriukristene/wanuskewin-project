@@ -60,8 +60,9 @@ hr {
     
 }
 
-.menubar a:link {
+.menubar a {
     color: #555555;
+    text-decoration: none;
 }
 
 .menubar a:hover {
