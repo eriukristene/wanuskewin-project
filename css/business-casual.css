@@ -60,6 +60,8 @@ hr {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    width: 100%; 
+    text-align: center;
 }
 
 .menubar li {
@@ -72,7 +74,7 @@ hr {
 }
 
 .menubar a:hover {
-    color: green;
+    color: black;
 }
 
 
