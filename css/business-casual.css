@@ -66,6 +66,7 @@ hr {
 
 .menubar li {
     display: inline;
+    padding: 30px;
 }
 
 .menubar a {
@@ -74,7 +75,7 @@ hr {
 }
 
 .menubar a:hover {
-    color: red;
+    color: black;
 }
 
 
