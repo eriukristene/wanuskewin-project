@@ -53,6 +53,10 @@ hr {
     letter-spacing: 3px;
 }
 
+#menubar {
+    color: red;
+}
+
 .img-full {
     min-width: 100%;
 }
