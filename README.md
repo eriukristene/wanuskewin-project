@@ -1,11 +1,10 @@
-wanuskewin-project - WanuskewInteractive Mobile Application Project Pitch Website
-for the CHI Fellowship
+# wanuskewin-project - WanuskewInteractive Mobile Application Project Pitch Website for the CHI Fellowship
 Team Members: RAMYA SWAYAMPRAKASH, JESSICA YANN, ERIN PEVAN
 Copyright 2016
 https://eriukristene.github.io/wanuskewin-project/index.html
 
 
-Start of Origianl README.md
+Start of Original README.md
 # [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
 
 [Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
