@@ -1,7 +1,8 @@
-# wanuskewin-project - WanuskewInteractive Mobile Application Project Pitch Website for the CHI Fellowship
-Team Members: RAMYA SWAYAMPRAKASH, JESSICA YANN, ERIN PEVAN
-Copyright 2016
-https://eriukristene.github.io/wanuskewin-project/index.html
+# wanuskewin-project - WanuskewInteractive Mobile Application Project Pitch Website 
+* CHI Fellowship Fall 2016
+* Team Members: RAMYA SWAYAMPRAKASH, JESSICA YANN, ERIN PEVAN
+* Copyright 2016
+* https://eriukristene.github.io/wanuskewin-project/index.html
 
 
 Start of Original README.md
